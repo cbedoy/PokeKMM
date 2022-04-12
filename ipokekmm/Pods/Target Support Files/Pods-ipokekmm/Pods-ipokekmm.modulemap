@@ -1,0 +1,6 @@
+framework module Pods_ipokekmm {
+  umbrella header "Pods-ipokekmm-umbrella.h"
+
+  export *
+  module * { export * }
+}
